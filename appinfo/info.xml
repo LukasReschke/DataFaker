@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+    <id>datafaker</id>
+    <name>Data Faker</name>
+    <description>Generates random data for testing ownCloud instances</description>
+    <licence>AGPL</licence>
+    <author>Lukas Reschke</author>
+    <version>0.0.1</version>
+    <requiremin>7.0.0</requiremin>
+	<shipped>true</shipped>
+	<standalone/>
+	<default_enable/>
+</info>
